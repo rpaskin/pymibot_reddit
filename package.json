@@ -1,0 +1,29 @@
+{
+  "name": "pymibot_reddit",
+  "version": "1.0.0",
+  "description": "PymiBot helps you settle disputes. Put your money where your mouth is!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpaskin/pymibot_reddit.git"
+  },
+  "keywords": [
+    "pymibot",
+    "reddit",
+    "disputes"
+  ],
+  "author": "Ronnie Paskin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rpaskin/pymibot_reddit/issues"
+  },
+  "homepage": "https://github.com/rpaskin/pymibot_reddit#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "snoostorm": "0.0.5",
+    "snoowrap": "^1.15.2"
+  }
+}
